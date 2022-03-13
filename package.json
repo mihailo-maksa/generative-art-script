@@ -1,7 +1,7 @@
 {
   "name": "generative_art_script",
   "version": "1.0.0",
-  "description": "",
+  "description": "Generative art script for creating an unlimited number of NFTs with configurable rarity settings & JSON metadata.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
